@@ -22,7 +22,7 @@ deploy:
     username: $username
     password: $password
     api: $api
-    organization: $organisation
+    organization: $org
     space: $space_uat
     manifest: ../manifest.yml
     skip-cleanup: true
